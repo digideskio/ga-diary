@@ -1,2 +1,2 @@
  Hello World!
- Today was a terrible day :(
+ Today was a great day!
